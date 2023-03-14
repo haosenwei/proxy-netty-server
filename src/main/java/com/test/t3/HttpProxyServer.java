@@ -19,9 +19,9 @@ public class HttpProxyServer {
         this.port = port;
     }
 
-    public static void main(String[] args) {
-        new HttpProxyServer(3000).run();
-    }
+//    public static void main(String[] args) {
+//        new HttpProxyServer(3000).run();
+//    }
 
     public void run() {
         EventLoopGroup bossGroup = new NioEventLoopGroup();
