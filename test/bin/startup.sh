@@ -42,4 +42,3 @@ sleep 1
 echo "started"
 PIDS=`ps -ef | grep java | grep "$DEPLOY_DIR" | awk '{print $2}'`
 echo "PID: $PIDS"
-tail -f $STDOUT_FILE
