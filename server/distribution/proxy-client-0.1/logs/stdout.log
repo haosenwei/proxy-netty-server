@@ -1,5 +1,0 @@
-WARNING: An illegal reflective access operation has occurred
-WARNING: Illegal reflective access by io.netty.util.internal.PlatformDependent0 (file:/Users/yixia/project/hao/gitee/lanproxy/distribution/proxy-client-0.1/lib/netty-all-4.0.36.Final.jar) to field java.nio.Buffer.address
-WARNING: Please consider reporting this to the maintainers of io.netty.util.internal.PlatformDependent0
-WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
-WARNING: All illegal access operations will be denied in a future release

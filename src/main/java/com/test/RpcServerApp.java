@@ -1,5 +1,6 @@
-package com.test.t3;
+package com.test;
 
+import com.test.t3.HttpProxyServer;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
